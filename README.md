@@ -144,7 +144,7 @@ pip install --upgrade -r requirements.txt
 
 ## 许可证
 
-本项目采用MIT许可证，详情请参阅LICENSE文件。
+本项目采用Apache License许可证，详情请参阅LICENSE文件。
 
 ## 贡献
 
